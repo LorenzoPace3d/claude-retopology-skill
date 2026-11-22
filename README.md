@@ -53,12 +53,12 @@ Clone into your personal skills folder. The folder name becomes the command name
 
 ```bash
 # macOS / Linux
-git clone https://github.com/<user>/<repo>.git ~/.claude/skills/retopology
+git clone https://github.com/LorenzoPace3d/claude-retopology-skill.git ~/.claude/skills/retopology
 ```
 
 ```powershell
 # Windows
-git clone https://github.com/<user>/<repo>.git "$env:USERPROFILE\.claude\skills\retopology"
+git clone https://github.com/LorenzoPace3d/claude-retopology-skill.git "$env:USERPROFILE\.claude\skills\retopology"
 ```
 
 Restart Claude Code. The skill shows up as `/retopology`. It also triggers on
